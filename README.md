@@ -12,10 +12,21 @@ To get started with this project, simply clone the repository and open the index
 git clone https://github.com/GaganHonor/responsive_food_website.git
 cd responsive_food_website
 open index.html
-```
 
+```
+```html
+Use live server or Just Download Zip and Move in your Hosting panel
+```
 Images
 Here are some images of the website:
+<img src="./imagest/Screenshot 2023-08-08 185930.jpg" width="60%"/>
+<img src="./imagest/Screenshot 2023-08-08 190135.jpg" width="60%"/>
+<img src="./imagest/Screenshot 2023-08-08 190219.jpg" width="60%"/>
+<img src="./imagest/Screenshot 2023-08-08 190632.jpg" width="60%"/>
+<img src="./imagest/Screenshot 2023-08-08 190947.jpg" width="60%"/>
+<img src="./imagest/Screenshot 2023-08-08 191011.jpg" width="60%"/>
+<img src="./imagest/Screenshot 2023-08-08 191032.jpg" width="60%"/>
+<img src="./imagest/Screenshot 2023-08-08 191058.jpg" width="60%"/>
 
 ## website is built using HTML, CSS, and JavaScript, you can still test it on GitHub Codespaces. Here are the steps you can follow:
 
